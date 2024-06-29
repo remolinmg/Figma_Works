@@ -18,7 +18,7 @@ https://www.figma.com/design/wYkFJuN7FdhkGAY1sjVcxk/Chat_App?node-id=0-1&t=YwOCF
 <hr>
 
 <h3>// ARound Manila</h3>
-<p>A mobile application concept that can be used to promote tourism in the Philippines.</p>
+<p>A mobile application concept that can be used to promote tourism in Manila.</p>
 https://www.figma.com/design/uMQc4uGZv3Nfnl0TJlVzTB/AR'ound-Manila?node-id=0-1&t=pLZYE661Jyi3z4ev-1
 <hr>
 
